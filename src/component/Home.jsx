@@ -18,6 +18,9 @@ export default function Home() {
         <br/><br/>
       <h1>WELCOME</h1>
       <p style={{paddingLeft:"100px"}}>To Shopping Website</p>
+
+      <p>This is my new repository</p>
+      <p>Welcome to NEW REPO HETHAL </p>
       
     </div>
   )
